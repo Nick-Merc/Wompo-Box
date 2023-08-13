@@ -3,7 +3,7 @@
 		{
 			"path": ".\\",
 			"name": "Wompo Box",
-			"file_exclude_patterns": ["*.sublime-workspace"]
+			"file_exclude_patterns": ["*.sublime-workspace", "*.sublime-project", ".gitattributes"]
 		}
 	],
 	"build_systems": [
