@@ -1,6 +1,9 @@
-import wompobox
+import wompobox as wb
 
 WIDTH = 500
 HEIGHT = 500
 
-wompobox = wompobox.WompoBox(WIDTH, HEIGHT)
+wompobox = wb.WompoBox(WIDTH, HEIGHT)
+
+wompobox.initialize()
+wompobox.run()
