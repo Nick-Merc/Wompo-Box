@@ -1,0 +1,938 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"p_x"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 86,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "import"
+					},
+					"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					8,
+					"left_delete",
+					null,
+					"BwAAAAYAAAAAAAAABgAAAAAAAAABAAAAIAUAAAAAAAAABQAAAAAAAAABAAAAdAQAAAAAAAAABAAAAAAAAAABAAAAcgMAAAAAAAAAAwAAAAAAAAABAAAAbwIAAAAAAAAAAgAAAAAAAAABAAAAcAEAAAAAAAAAAQAAAAAAAAABAAAAbQAAAAAAAAAAAAAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " __nam"
+					},
+					"BgAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "e__"
+					},
+					"AwAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " =="
+					},
+					"AwAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " __main"
+					},
+					"BwAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "__:"
+					},
+					"AwAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					23,
+					"left_delete",
+					null,
+					"FwAAABkAAAAAAAAAGQAAAAAAAAABAAAACRgAAAAAAAAAGAAAAAAAAAABAAAAChcAAAAAAAAAFwAAAAAAAAABAAAAOhYAAAAAAAAAFgAAAAAAAAABAAAAXxUAAAAAAAAAFQAAAAAAAAABAAAAXxQAAAAAAAAAFAAAAAAAAAABAAAAbhMAAAAAAAAAEwAAAAAAAAABAAAAaRIAAAAAAAAAEgAAAAAAAAABAAAAYREAAAAAAAAAEQAAAAAAAAABAAAAbRAAAAAAAAAAEAAAAAAAAAABAAAAXw8AAAAAAAAADwAAAAAAAAABAAAAXw4AAAAAAAAADgAAAAAAAAABAAAAIA0AAAAAAAAADQAAAAAAAAABAAAAPQwAAAAAAAAADAAAAAAAAAABAAAAPQsAAAAAAAAACwAAAAAAAAABAAAAIAoAAAAAAAAACgAAAAAAAAABAAAAXwkAAAAAAAAACQAAAAAAAAABAAAAXwgAAAAAAAAACAAAAAAAAAABAAAAZQcAAAAAAAAABwAAAAAAAAABAAAAbQYAAAAAAAAABgAAAAAAAAABAAAAYQUAAAAAAAAABQAAAAAAAAABAAAAbgQAAAAAAAAABAAAAAAAAAABAAAAXwMAAAAAAAAAAwAAAAAAAAABAAAAXw",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "name"
+					},
+					"BAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					6,
+					"left_delete",
+					null,
+					"BgAAAAYAAAAAAAAABgAAAAAAAAABAAAAZQUAAAAAAAAABQAAAAAAAAABAAAAbQQAAAAAAAAABAAAAAAAAAABAAAAYQMAAAAAAAAAAwAAAAAAAAABAAAAbgIAAAAAAAAAAgAAAAAAAAABAAAAIAEAAAAAAAAAAQAAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "f"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " nam"
+					},
+					"BAAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAUAAAAAAAAABQAAAAAAAAABAAAAbQQAAAAAAAAABAAAAAAAAAABAAAAYQMAAAAAAAAAAwAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert_completion",
+					{
+						"completion": "__${1:init}__",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "__"
+					},
+					"AgAAAAMAAAAAAAAAAwAAAAAAAAABAAAAXwMAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					9,
+					"left_delete",
+					null,
+					"CQAAAAoAAAAAAAAACgAAAAAAAAABAAAAXwkAAAAAAAAACQAAAAAAAAABAAAAXwgAAAAAAAAACAAAAAAAAAABAAAAdAcAAAAAAAAABwAAAAAAAAABAAAAaQYAAAAAAAAABgAAAAAAAAABAAAAbgUAAAAAAAAABQAAAAAAAAABAAAAaQQAAAAAAAAABAAAAAAAAAABAAAAXwMAAAAAAAAAAwAAAAAAAAABAAAAXwIAAAAAAAAAAgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": " __name__"
+					},
+					"CQAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " =="
+					},
+					"AwAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " __main"
+					},
+					"BwAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "__:"
+					},
+					"AwAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "wompob"
+					},
+					"BwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAABoAAABpZiBfX25hbWVfXyA9PSBfX21haW5fXzoKCQEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "ox"
+					},
+					"AgAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": " Wompo"
+					},
+					"BgAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "Box"
+					},
+					"AwAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAABMAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "WIDTH,"
+					},
+					"BgAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": " HEIGHT"
+					},
+					"BwAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "import"
+					},
+					"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": " wompobox"
+					},
+					"CQAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "\n\nWIDTH"
+					},
+					"BwAAAA8AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": " 500"
+					},
+					"BAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "\nHEIGHT"
+					},
+					"BwAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAACMAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": " 500"
+					},
+					"BAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "from"
+					},
+					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAA8AAABpbXBvcnQgd29tcG9ib3gBAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": " wompo"
+					},
+					"BgAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert_completion",
+					{
+						"completion": "wompobox",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "wompobox"
+					},
+					"AgAAAAUAAAAAAAAABQAAAAAAAAAFAAAAd29tcG8FAAAAAAAAAA0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": " import"
+					},
+					"BwAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": " Wom"
+					},
+					"BAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert_completion",
+					{
+						"completion": "WompoBox",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "WompoBox"
+					},
+					"AgAAABUAAAAAAAAAFQAAAAAAAAADAAAAV29tFQAAAAAAAAAdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "import"
+					},
+					"BwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAB0AAABmcm9tIHdvbXBvYm94IGltcG9ydCBXb21wb0JveAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": " wompo"
+					},
+					"BgAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert_completion",
+					{
+						"completion": "wompobox",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "wompobox"
+					},
+					"AgAAAAcAAAAAAAAABwAAAAAAAAAFAAAAd29tcG8HAAAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": "wompobox."
+					},
+					"CQAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "wompobox.py",
+			"settings":
+			{
+				"buffer_size": 434,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAwQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAIyB3b21wb2JveC5weQoK",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: template <typename ${1:_InputIter}>"
+			],
+			[
+				"snippet",
+				"Snippet: Enumeration"
+			],
+			[
+				"for",
+				"Snippet: For Loop"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"sublime.log_console(False)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/nrmer/Desktop/WompoBox"
+	],
+	"file_history":
+	[
+		"/C/Users/nrmer/Desktop/WompoBox/media/wompobox.py",
+		"/C/Users/nrmer/Desktop/PhantaBox/phantabox.py",
+		"/C/Users/nrmer/Desktop/PhantaBox/phantabox.sublime-project",
+		"/C/Users/nrmer/Desktop/Walker/walker.py",
+		"/C/Users/nrmer/Desktop/Walker/gridfcts.py",
+		"/C/Users/nrmer/Desktop/RouteSimV2/main.py",
+		"/C/Users/nrmer/Desktop/RouteSimV2/routesim.py",
+		"/C/Users/nrmer/Desktop/RouteSimV2/routesimv2.sublime-project",
+		"/C/Users/nrmer/Desktop/RouteSimV2/route.py",
+		"/C/Users/nrmer/Desktop/RouteSimV2/entity.py",
+		"/C/Users/nrmer/Desktop/RouteSimV2/position.py",
+		"/C/Users/nrmer/Desktop/RouteSimV2/tileset.py",
+		"/C/Users/nrmer/Desktop/RouteSimV2/position",
+		"/C/Users/nrmer/Desktop/RouteSim/main.py",
+		"/C/Users/nrmer/Desktop/thingo.py",
+		"/C/Users/nrmer/Desktop/picture.py",
+		"/C/Users/nrmer/Zomboid/mods/ChocolateBarMod/media/scripts/chocolatebar.txt",
+		"/C/Users/nrmer/Zomboid/mods/ChocolateBarMod/mod.info",
+		"/C/Users/nrmer/Zomboid/mods/ChocolateBarMod/lua/spawn.lua",
+		"/C/Users/nrmer/Desktop/ChocolateBarMod/media/scripts/chocolatebar.txt",
+		"/C/Users/nrmer/Desktop/KindaGame/main.py",
+		"/C/Users/nrmer/Desktop/KindaGame/gridsim.py",
+		"/C/Users/nrmer/Desktop/KindaGame/GoblinThing.py",
+		"/C/Users/nrmer/Desktop/KindaGame/GoblinThing",
+		"/C/Users/nrmer/Desktop/KindaGame/kindagame.sublime-project",
+		"/C/Users/nrmer/Zomboid/mods/BreakableKeys/media/lua/client/break_keys.lua",
+		"/C/Users/nrmer/Zomboid/mods/BreakableKeys/mod.info",
+		"/C/Users/nrmer/Desktop/BreakableKeys/mod.info",
+		"/C/Users/nrmer/Desktop/BreakableKeys/breakablekeys.sublime-project",
+		"/C/Users/nrmer/Desktop/ZomboidMods/NoMoreSickness/mod.info",
+		"/C/Users/nrmer/Desktop/ZomboidMods/NoMoreSickness/lua/removesickness.lua",
+		"/C/Users/nrmer/Desktop/ZomboidMods/NoMoreSickness/lua/require.lua",
+		"/C/Users/nrmer/Desktop/ZomboidMods/NoMoreSickness/NoMoreSickness.sublime-project",
+		"/C/Users/nrmer/Desktop/NoMoreSickness/NoMoreSickness.sublime-project",
+		"/C/Users/nrmer/Desktop/crafter.py",
+		"/C/Users/nrmer/Desktop/gpu.py",
+		"/C/Users/nrmer/Desktop/zomboid_mod/mod.lua",
+		"/C/Users/nrmer/Desktop/zomboid_mod/mod.info",
+		"/C/Users/nrmer/Desktop/zomboid_mod/project.sublime-project",
+		"/C/Users/nrmer/myai/nous-hermes-13b.ggmlv3.q5_1.bin",
+		"/C/Users/nrmer/Desktop/CSI/project1/src/proj1-main.cpp",
+		"/C/Users/nrmer/Desktop/CSI/project1/src/proj1-person.cpp",
+		"/C/Users/nrmer/Desktop/CSI/project1/test/proj1-testmain.cpp",
+		"/C/Users/nrmer/Desktop/CSI/project1/data/people.dat",
+		"/C/Users/nrmer/Desktop/CSI/project1/include/proj1-person.hpp",
+		"/C/Users/nrmer/Desktop/CSI/project1/proj1.sublime-project",
+		"/C/Users/nrmer/Desktop/CSI/project1/proj1-person.hpp",
+		"/C/Users/nrmer/Desktop/CSI/project1/proj1-person.cpp",
+		"/C/Users/nrmer/Desktop/CSI/project1/main.cpp",
+		"/C/Users/nrmer/Desktop/CSI/program1/proj1.sublime-project",
+		"/C/Users/nrmer/Desktop/CSI/program1/main.exe",
+		"/C/Users/nrmer/Desktop/QT/nosScanner/nosScanner.py",
+		"/C/Users/nrmer/Desktop/QT/nosScanner/helpers/helperFunctions.py",
+		"/C/Users/nrmer/Desktop/QT/nosScanner/nethelp/socketPortScanner.py",
+		"/C/Users/nrmer/Desktop/QT/nosScanner/nethelp/netFunctions.py",
+		"/C/Users/nrmer/Desktop/QT/nosScanner/nethelp/portScanner.py",
+		"/C/Users/nrmer/Desktop/QT/nosScanner/helpers/constants.py",
+		"/C/Users/nrmer/Desktop/Python/Website Audit.py",
+		"/C/Users/nrmer/Desktop/Python/OMV1.py",
+		"/C/Users/nrmer/AppData/Local/Programs/Python/Python39/Lib/site-packages/nmap/nmap.py",
+		"/C/Program Files (x86)/Nmap/nmap.xsl",
+		"/C/Program Files (x86)/Nmap/nmap_performance.reg",
+		"/C/Program Files (x86)/Nmap/nse_main.lua",
+		"/C/Program Files (x86)/Nmap/nmap-services",
+		"/C/Program Files (x86)/Nmap/nmap-protocols",
+		"/C/Users/nrmer/Desktop/QT/WebOps/helpers/constants.py",
+		"/C/Users/nrmer/Desktop/QT/WebOps/nethelp/portScanner.py",
+		"/C/Users/nrmer/Desktop/QT/WebOps/helpers/__init__.py",
+		"/C/Users/nrmer/Desktop/QT/WebOps/targetdata/targetData.py",
+		"/C/Users/nrmer/Desktop/QT/WebOps/helpers/helperFunctions.py",
+		"/C/Users/nrmer/Desktop/QT/WebOps/nethelp/netFunctions.py",
+		"/C/Users/nrmer/Desktop/QT/templatefile.py",
+		"/C/Users/nrmer/Desktop/QT/WebOps/helpers/dataLoadFunctions.py",
+		"/C/Users/nrmer/Desktop/QT/WebOps/WebOps Scanner Project.sublime-project",
+		"/C/Users/nrmer/Desktop/QT/WebOps/helpers/netFunctions.py",
+		"/C/Users/nrmer/Desktop/QT/WebOps/Run.py",
+		"/C/Users/nrmer/Desktop/QT/WebOps/nosScanner.py",
+		"/C/Users/nrmer/Desktop/QT/WebOps/import/netFunctions.py",
+		"/C/Users/nrmer/Desktop/Python/QT/WebOps/bin/qtScanner.py",
+		"/C/Users/nrmer/Desktop/Python/QT/WebOps/templateFile.py",
+		"/C/Users/nrmer/Desktop/Python/QT/Hello World/helloWorld.py",
+		"/C/Users/nrmer/Desktop/Python/QT/WebOps/qtScanner.py",
+		"/?wsl.localhost/kali-linux/usr/bin/whois",
+		"/C/Users/nrmer/Desktop/Python/QT/WebOps/qtScanner.ui",
+		"/C/Users/nrmer/Desktop/C++/QT/Hello World/helloWorld.py",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/main.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Tron.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/opponent.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Opponent.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/tron.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Racer.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/racer.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Entity.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/renderwindow.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/RenderWindow.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/entity.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Coord.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Color.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/save/scores.txt",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/functions.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Functions.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Logic.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/Stats.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Letter.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/grid.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Grid.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/type.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Letters.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/plotter.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/src/math.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/include/Math.hpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/Color Plotter.sublime-project",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/source/main.cpp",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/Makefile",
+		"/C/Users/nrmer/Desktop/C++/Color Plotter/SDL2-2.0.22/Makefile",
+		"/?wsl.localhost/kali-linux/home/kali/hangman/betterHangman.cpp",
+		"/?wsl.localhost/kali-linux/home/kali/hangman/Game.h",
+		"/?wsl.localhost/kali-linux/home/kali/hangman/hangman.cpp",
+		"/?wsl.localhost/kali-linux/home/kali/hangman/Makefile",
+		"/?wsl.localhost/kali-linux/home/kali/hangman/Game.cpp",
+		"/C/Users/nrmer/AppData/Roaming/Sublime Text/Packages/User/foru.sublime-snippet",
+		"/?wsl.localhost/kali-linux/home/kali/hangman/words.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wompobox.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Run phantabox.py",
+	"project": "wompobox.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"snippet",
+				"C:\\Users\\nrmer\\AppData\\Roaming\\Sublime Text\\Packages\\User\\foru.sublime-snippet"
+			],
+			[
+				"ma",
+				"Makefile"
+			],
+			[
+				"han",
+				"hangman.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

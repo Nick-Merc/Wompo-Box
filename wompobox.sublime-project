@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".\\",
+			"name": "Wompo Box",
+			"file_exclude_patterns": ["*.sublime-workspace"]
+		}
+	],
+	"build_systems": [
+		{
+			"name": "Run wompobox.py",
+			"cmd": "python wompobox.py"
+		}
+	]
+}
