@@ -1,9 +1,12 @@
-import wompobox as wb
+from wompobox import WompoBox
+from entity import Entity
 
 WIDTH = 500
 HEIGHT = 500
 
-wompobox = wb.WompoBox(WIDTH, HEIGHT)
+wompobox = WompoBox(WIDTH, HEIGHT)
 
-wompobox.initialize()
+dwarf = Entity(5, 5, "Dwarf")
+wompobox.addEntity(dwarf)
+
 wompobox.run()
