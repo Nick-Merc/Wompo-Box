@@ -7,7 +7,6 @@ class WompoBox:
         self.height = height
 
         self.entities = []
-        self.tilemap = [] # WidthXHeight matrix of 'o' characters, will be used to draw respective tile.
 
     def addEntity(self, entity):
         self.entities.append(entity)
@@ -37,11 +36,6 @@ class WompoBox:
             rect = pygame.Rect(x, y, SQUARE_SIZE, SQUARE_SIZE)
             # draw the rectangle on the surface
             pygame.draw.rect(self.screen, GREEN, rect)
-
-    def loadAll(self):
-        # Reflect all entities in the tilemap.
-        for entity in self.entities:
-            self.tilemap[entity.position.y][entity.position.x] = entity.name[0]
 
     def drawAll(self):
         self.drawBackground()
