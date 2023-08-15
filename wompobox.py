@@ -24,7 +24,19 @@ class WompoBox:
         self.screen.blit(self.background_image, (0, 0))
 
     def drawEntities(self):
-        pass
+        for entity in self.entities:
+            # draw green square at entity.position
+            # define the size of the square
+            SQUARE_SIZE = 20
+            # get the color of green
+            GREEN = (0, 255, 0)
+            # calculate the top-left corner of the square
+            x = entity.x - SQUARE_SIZE / 2
+            y = entity.y - SQUARE_SIZE / 2
+            # create a rectangle object with the coordinates and size
+            rect = pygame.Rect(x, y, SQUARE_SIZE, SQUARE_SIZE)
+            # draw the rectangle on the surface
+            pygame.draw.rect(self.screen, GREEN, rect)
 
     def loadAll(self):
         # Reflect all entities in the tilemap.
@@ -33,7 +45,7 @@ class WompoBox:
 
     def drawAll(self):
         self.drawBackground()
-        # self.drawEntities()
+        self.drawEntities()
 
         pygame.display.flip()
 

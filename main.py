@@ -6,7 +6,7 @@ HEIGHT = 500
 
 wompobox = WompoBox(WIDTH, HEIGHT)
 
-dwarf = Entity(5, 5, "Dwarf")
+dwarf = Entity(200, 30, "Dwarf")
 wompobox.addEntity(dwarf)
 
 wompobox.run()
